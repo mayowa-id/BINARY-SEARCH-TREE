@@ -19,5 +19,5 @@ The remaining methods are pretty much self explanatory
 
 Note: min(), equals(), height() implementations employ recursion technique 
 
-Bonus method - the insert2() method is a recursive method for inserying values in an AVL tree.
+Bonus method - the insert2() method is a recursive method for inserting values in an AVL tree.
 
